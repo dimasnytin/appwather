@@ -506,5 +506,20 @@ article.container::before{
   margin-inline: auto;
 }
 
+.current-weather-card > .body-3{
+  text-transform: capitalize;
+}
 
+.current-weather-card .meta-list{
+  margin-block-start: 16px;
+  padding-block-start: 16px;
+  border-block-start: 1px solid var(--outline);
+}
 
+.current-weather-card .meta-item:not(:last-child){
+  margin-block-end: 12px;
+}
+
+.current-weather-card .meta-text{
+  color: var(--on-surface-variant);
+}
