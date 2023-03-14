@@ -516,6 +516,12 @@ article.container::before{
   border-block-start: 1px solid var(--outline);
 }
 
+.current-weather-card .meta-item{
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
 .current-weather-card .meta-item:not(:last-child){
   margin-block-end: 12px;
 }
