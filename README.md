@@ -9,7 +9,6 @@ A brief description of what this project does and who it's for
 
 ## Demo
 
-Insert gif or link to demo
 
 ## Features
 
@@ -50,7 +49,7 @@ Open with live server
 
 ## Authors
 
-- [@codewithsadee](https://www.github.com/codewithsadee)
+- [@dimasnytin](https://github.com/dimasnytin)
 
 ## License
 
@@ -58,4 +57,4 @@ Open with live server
 
 ## Support
 
-For support, Join my [Patreon Comunity](https://www.patreon.com/codewithsadee/membership) or Subscribe My [YouTube Channel](https://youtube.com/@codewithsadee).
+For support, Join my [Website](https://dimasnytin.github.io/cv/).
