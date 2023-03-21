@@ -259,7 +259,7 @@ body{
 }
 
 .card{
-  background-color: var(--surface);
+  background-color: #48c8ff;
   color: var(--on-surface);
 }
 
