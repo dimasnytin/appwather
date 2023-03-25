@@ -805,4 +805,16 @@ article.container::before{
   .search-view{
     clip-path: circle(3% at calc(100% - 273px) 6%);
   }
+
+  main{
+    height: calc(100vh - 96px);
+    height: calc(100svh - 96px);
+  }
+
+  article.container{
+    padding-block-start: 0;
+    grid-template-columns: 280px minmax(0, 1fr);
+    align-items: flex-start;
+    gap: 24px;
+  }
 } 
