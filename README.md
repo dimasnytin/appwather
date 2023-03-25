@@ -1,9 +1,9 @@
 
-# Project Title
+# Прогноз погоды
 
 A brief description of what this project does and who it's for
 
-## Tech Stack
+## Тех стэк: 
 
 **Client:** HTML, CSS, JavaScript, API
 
