@@ -3,7 +3,7 @@
 :root{
     --primary: #B5A1E5;
     --on-primary: #100E17;
-    --background: #181919;
+    --background: #131214;
     --on-background: #EAE6F2;
     --surface: #1D1C1F;
     --on-surface: #DDDAE5;
@@ -232,7 +232,7 @@ body{
 }
 
 .btn-primary{
-  background-color: #57d5f7;
+  background-color: #252525;
   color: var(--on-primary);
   height: 40px;
   line-height: 48px;
@@ -259,7 +259,7 @@ body{
 }
 
 .card{
-  background-color: #48c8ff;
+  background-color: #252525;
   color: var(--on-surface);
 }
 
@@ -720,4 +720,5 @@ article.container::before{
   width: 100%;
   height: 100%;
   background-color: var(--background);
+
 }
