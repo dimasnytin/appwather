@@ -761,7 +761,7 @@ article.container::before{
 /* мобильный стили */
 
 /* 768px */
-@media (min-width: 768){
+@media(min-width: 768){
 
   .container{
     padding: 24px;
@@ -817,4 +817,23 @@ article.container::before{
     align-items: flex-start;
     gap: 24px;
   }
+
+  .content-left{
+    position: sticky;
+    top: 0;
+  }
+
+  .section:not(:last-child){
+    margin-block: 20px;
+  }
+
+  .forecast-card .card-item:not(:last-child){
+    margin-block-end: 16px;
+  }
+
+  .highlight-list{
+    grid-template-columns: 1fr 1fr;
+  }
 } 
+
+/* https: //youtu.be/QMwyNnjAils?t=5299 */
