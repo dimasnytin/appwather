@@ -3,7 +3,7 @@
 :root{
     --primary: #B5A1E5;
     --on-primary: #100E17;
-    --background: #48aeff;
+    --background: #181919;
     --on-background: #EAE6F2;
     --surface: #1D1C1F;
     --on-surface: #DDDAE5;
@@ -709,4 +709,15 @@ article.container::before{
   display: flex;
 }
 
-/* https: //youtu.be/QMwyNnjAils?t=4706 */
+.footer .body-3{
+  gap: 6px;
+}
+
+.loading{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: var(--background);
+}
