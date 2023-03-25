@@ -750,7 +750,7 @@ article.container::before{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  /* display: none; */
+  display: none;
   z-index: 8;
 }
 
