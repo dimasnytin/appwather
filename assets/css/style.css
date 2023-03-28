@@ -761,7 +761,7 @@ article.container::before{
 /* мобильный стили */
 
 /* 768px */
-@media(min-width: 768){
+@media(min-width: 768px){
 
   .container{
     padding: 24px;
