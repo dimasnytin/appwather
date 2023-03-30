@@ -933,6 +933,8 @@ article.container::before{
 
   .search-wrapper > .m-icon{
     display: block;
+    margin-top: -35px;
+    margin-left: 20px;
   }
 
   .search-field,
@@ -957,5 +959,17 @@ article.container::before{
   .search-view:has(.search-result.actite):focus-within .search-field{
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
+  }
+
+  .search-view .view-list{
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    max-height: 360px;
+    border-radius: 0 0 var(--radius-28) var(--radius-28); 
+    border-block-start: 1px solid var(--outline);
+    overflow-y: auto;
+    overflow-y: overlay;
   }
 }
