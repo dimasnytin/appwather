@@ -32,3 +32,5 @@ export const getDate = function (dateUnix, timezone) {
 
   return `${weekDayName} ${date.getUTCDay()}, ${monthName}`;
 }
+
+// https://youtu.be/QMwyNnjAils?t=6932
