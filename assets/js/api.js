@@ -34,6 +34,6 @@ export const url = {
 
 
 
-// https://youtu.be/QMwyNnjAils?t=6523
+
 // https://www.postman.com/galactic-resonance-776965/workspace/openweather-free/request/24215605-d9a09c0b-9a94-4167-86b0-5a4095eb5e47
 // https://home.openweathermap.org/api_keys
